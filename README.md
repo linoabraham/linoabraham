@@ -2,4 +2,4 @@
 - 👀 I’m interested in all things related to software development and technology.
 - 🌱 I’m currently learning various programming languages and technologies, with a focus on Java, Python, and web development.
 - 💞️ I’m looking to collaborate on open-source projects and software development initiatives.
-- 📫 How to reach me: Feel free to contact me via email at [tu@email.com] or connect with me on LinkedIn: [tu perfil de LinkedIn].
+- 📫 How to reach me: Feel free to contact me via email at U202022353@upc.edu.pe or connect with me on LinkedIn:https://www.linkedin.com/in/lino-abraham-quenta-leon-512677188
