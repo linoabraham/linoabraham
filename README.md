@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @linoabraham
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-linoabraham/linoabraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @linoabraham, a student of Software Engineering.
+- 👀 I’m interested in all things related to software development and technology.
+- 🌱 I’m currently learning various programming languages and technologies, with a focus on Java, Python, and web development.
+- 💞️ I’m looking to collaborate on open-source projects and software development initiatives.
+- 📫 How to reach me: Feel free to contact me via email at [tu@email.com] or connect with me on LinkedIn: [tu perfil de LinkedIn].
