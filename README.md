@@ -1,66 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Lino%20Abraham%20Quenta&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+<!-- Encabezado elegante con animación -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2A3A,100:3399FF&height=220&section=header&text=Lino%20Abraham%20Quenta&fontSize=40&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
 
+<!-- Introducción con animación tipográfica -->
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=3399FF&center=true&vCenter=true&width=550&lines=¡Bienvenido+a+mi+Universo+Digital!+🚀;Soy+Lino+Abraham,+Ingeniero+de+Software;Explorando+el+código+y+creando+soluciones" alt="Typing SVG" />
-  </a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+con+enfoque+en+soluciones+eficientes.;Ingeniería+de+Software+%7C+Frontend%2C+Backend+y+Mobile.;Comprometido+con+la+calidad%2C+escalabilidad+y+la+innovación." />
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/bar.gif" width="100%">
+---
 
-### **🚀 Sobre Mí**
+### 🧑‍💼 Sobre mí
+
+Soy Lino Abraham Quenta, estudiante de Ingeniería de Software con experiencia práctica en desarrollo full stack. Me especializo en diseñar e implementar soluciones digitales integrales, priorizando la calidad de código, escalabilidad y experiencia de usuario. Busco contribuir en entornos exigentes y colaborativos, enfocados en innovación tecnológica.
+
+- Formación técnica sólida con enfoque en arquitecturas modernas.
+- Dominio en desarrollo web, móvil y backend.
+- Interés en proyectos con impacto real y uso de inteligencia artificial.
+
+---
+
+### 💼 Stack Tecnológico
+
+#### Lenguajes de Programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,kotlin,html,css,swift&perline=9" />
+</p>
+
+#### Frameworks y Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,spring,express,nestjs,nodejs,redux&perline=9" />
+</p>
+
+#### Backend, DevOps y Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,mongodb,firebase,graphql,maven,git,aws&perline=9" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=linoabraham&repo=linoabraham&theme=radical&bg_color=1D2A3A&title_color=3399FF&text_color=FFF&icon_color=3399FF" alt="Pin de Repositorio">
-  ¡Hola! Soy un apasionado <strong>Estudiante de Ingeniería de Software</strong> de Lima, Perú 🇵🇪. Mi objetivo es transformar ideas complejas en soluciones de software elegantes y eficientes.
-  <br><br>
-  - 🌱 Me especializo en <b>Java, Python y Desarrollo Web</b>.
-  - 💞️ Busco activamente colaborar en <b>proyectos Open-Source</b> para crecer como profesional.
-  - ⚡ Dato curioso: ¡Me encanta el café tanto como un código bien estructurado!
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=linoabraham&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linoabraham&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=linoabraham&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Reconocimientos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=linoabraham&theme=radical&no-frame=true&margin-w=12&margin-h=12" />
+</p>
+
+---
+
+### 📈 Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/linoabraham/linoabraham/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📫 Contacto Profesional
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lino-abraham-quenta-leon-512677188" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:U202022353@upc.edu.pe">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linoabraham.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Web-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
-### **🛠️ Mi Arsenal de Tecnologías**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,js,html,css,react,git,mysql,postgres,docker,maven&perline=6&theme=dark" alt="Skill Icons"/>
-</p>
-
 ---
-
-### **🐍 Mi Contribución en el Gráfico de GitHub**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/linoabraham/linoabraham/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
-
-### **📊 Mis Estadísticas y Actividad**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=linoabraham&show_icons=true&locale=es&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas de Lino Abraham" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=linoabraham&layout=compact&locale=es&theme=radical&hide_border=true&include_all_commits=true" alt="Lenguajes más usados" />
-  <br>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=linoabraham&theme=radical&hide_border=true" alt="Racha de Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linoabraham&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
-</p>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=linoabraham&icon=3&color=6" alt="Contador de visitas"/>
+  <img src="https://visitcount.itsvg.in/api?id=linoabraham&label=Profile%20Views&icon=5&color=0&pretty=true" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer&reversal=true"/>
+<!-- Footer minimalista -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
