@@ -30,79 +30,52 @@
 
 </div>
 
-### 👨‍💻 **Professional Profile**
+### 👨‍💻 Professional Profile
 
-<div style="
-border-radius: 15px;
-background-color: #1A1B27;
-padding: 20px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-border: 1px solid #30363d;
-animation: fadeIn 1.5s ease-in-out;
-">
-<style>
-@keyframes fadeIn {
-from { opacity: 0; transform: translateY(20px); }
-to { opacity: 1; transform: translateY(0); }
-}
-@keyframes typing {
-from { width: 0; }
-to { width: 100%; }
-}
-@keyframes blink-caret {
-from, to { border-color: transparent; }
-50% { border-color: #39FF14; }
-}
-.line {
-overflow: hidden;
-white-space: nowrap;
-margin: 0 auto;
-border-right: .15em solid #39FF14;
-animation: typing 2.5s steps(40, end), blink-caret .75s step-end infinite;
-animation-fill-mode: forwards;
-display: block;
-color: #E0E0E0;
-margin-bottom: 8px;
-}
-.line-1 { animation-delay: 0s; }
-.line-2 { animation-delay: 2.6s; }
-.line-3 { animation-delay: 5.2s; }
-.line-4 { animation-delay: 7.8s; }
-.tech-icons img {
-margin: 5px;
-transition: transform 0.3s ease;
-}
-.tech-icons img:hover {
-transform: scale(1.15);
-}
-</style>
+<div align="center">
+  
+<img src="https://avatars.githubusercontent.com/u/1?v=4" width="100" style="border-radius: 50%;" />
 
-<div style="display: flex; align-items: center; gap: 15px;">
-<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/1%3Fv%3D4" alt="Avatar" style="width: 90px; height: 90px; border-radius: 50%; border: 3px solid #39FF14;">
-<div>
-<h1 style="color: #FFFFFF; margin: 0; font-size: 24px;">Lino Abraham Quenta León</h1>
-<p style="color: #39FF14; margin: 5px 0 0; font-style: italic;">Ingeniero de Software</p>
-</div>
+<h2>Lino Abraham Quenta León</h2>
+<i>Ingeniero de Software - Full Stack Developer</i>
+
+📍 Lima, Perú 🇵🇪  
+🧠 "Construyendo soluciones escalables que marcan la diferencia"  
+🚀 Enfoque: Full Stack | Cloud | AI | Mobile  
+📈 Estado: Disponible para nuevos desafíos  
+
+---
+
+### 🚀 Tech Stack
+
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) 
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+
+---
+
+### 🧰 Herramientas
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+
 </div>
 
-<div style="margin-top: 20px; background-color: #0D1117; border-radius: 8px; padding: 15px; font-family: 'Fira Code', monospace; font-size: 14px;">
-<span class="line line-1" style="width: 0;">> <span style="color: #79B8FF;">Ubicación:</span> "Lima, Perú 🇵🇪"</span>
-<span class="line line-2" style="width: 0;">> <span style="color: #79B8FF;">Filosofía:</span> "Construyendo soluciones escalables que marcan la diferencia."</span>
-<span class="line line-3" style="width: 0;">> <span style="color: #79B8FF;">Enfoque:</span> ["Full Stack", "Cloud", "AI", "Mobile"]</span>
-<span class="line line-4" style="width: 0;">> <span style="color: #79B8FF;">Estado:</span> "Disponible para nuevos desafíos."</span>
-</div>
-
-<div style="margin-top: 25px; text-align: center;">
-<h3 style="color: #FFFFFF; margin-bottom: 15px;">🚀 Tecnologías Principales 🚀</h3>
-<p class="tech-icons" align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,nodejs,react,nextjs,ts,flutter,aws,docker,kubernetes,postgres,mongodb,mysql,firebase,tailwind%26perline%3D8%26theme%3Ddark" />
-</a>
-</p>
-</div>
-</div>
-```
 
 ---
 
