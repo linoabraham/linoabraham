@@ -34,7 +34,7 @@
 
 <div align="center">
   
-<img src="https://avatars.githubusercontent.com/u/1?v=4](https://avatars.githubusercontent.com/u/89022192?s=400&u=5f746b0bb5c1b9a11a8c71e3a537b6a01303e634&v=4" width="100" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/89022192?s=400&u=5f746b0bb5c1b9a11a8c71e3a537b6a01303e634&v=4" width="100" style="border-radius: 50%;" />
 
 <h2>Lino Abraham Quenta León</h2>
 <i>Ingeniero de Software - Full Stack Developer</i>
