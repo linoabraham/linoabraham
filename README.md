@@ -34,7 +34,7 @@
 
 <div align="center">
   
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="100" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/1?v=4](https://avatars.githubusercontent.com/u/89022192?s=400&u=5f746b0bb5c1b9a11a8c71e3a537b6a01303e634&v=4" width="100" style="border-radius: 50%;" />
 
 <h2>Lino Abraham Quenta León</h2>
 <i>Ingeniero de Software - Full Stack Developer</i>
@@ -42,30 +42,8 @@
 📍 Lima, Perú 🇵🇪  
 🧠 "Construyendo soluciones escalables que marcan la diferencia"  
 🚀 Enfoque: Full Stack | Cloud | AI | Mobile  
-📈 Estado: Disponible para nuevos desafíos  
-
+👑 CEO & Fundador: **Consultora de Software LYA**
 ---
-
-### 🚀 Tech Stack
-
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) 
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-
----
-
 ### 🧰 Herramientas
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
