@@ -1,4 +1,3 @@
-# 🌟 Lino Abraham Quenta León
 ### `Software Engineer | Full Stack Developer | Tech Innovator`
 
 <div align="center">
