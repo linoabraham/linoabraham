@@ -25,6 +25,26 @@
 
 ## 🎯 **About Me**
 
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+from+Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA;Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+Cloud+Enthusiast;Building+scalable+solutions+that+make+a+difference;Passionate+about+clean+code+and+innovation" />
+
+</div>
+
+### 👨‍💻 **Professional Profile**
+
+<div align="center">
+
+| 🎯 **Focus Area** | 🚀 **Technologies** | 📊 **Experience** |
+|:---:|:---:|:---:|
+| **Backend** | Java, Spring Boot, Node.js | 3+ years |
+| **Frontend** | React, Next.js, TypeScript | 2+ years |
+| **Mobile** | Flutter, React Native | 2+ years |
+| **Cloud** | AWS, Docker, Kubernetes | 1+ years |
+| **Database** | PostgreSQL, MongoDB, MySQL | 3+ years |
+
+</div>
+
 ```typescript
 const LinoAbraham = {
     name: "Lino Abraham Quenta León",
@@ -128,7 +148,17 @@ const LinoAbraham = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/linoabraham/linoabraham/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)](https://github.com/linoabraham)
+
+</div>
+
+### 🔥 **Alternative Visual Contributions**
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=linoabraham&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=linoabraham&theme=tokyonight" />
 
 </div>
 
@@ -188,6 +218,36 @@ graph TD
 
 ## 💡 **Recent Activity**
 
+<div align="center">
+  
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=linoabraham&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Recent%20Activity%20Graph)](https://github.com/linoabraham)
+
+</div>
+
+### 🔥 **Latest Commits & Updates**
+
+<div align="center">
+
+| 📅 **Date** | 🎯 **Action** | 📂 **Repository** | 🏷️ **Status** |
+|:---:|:---:|:---:|:---:|
+| **Today** | 🔥 Pushed new features | [sistemaagua](https://github.com/linoabraham/sistemaagua) | ![Active](https://img.shields.io/badge/Active-brightgreen) |
+| **2 days ago** | ⚡ Updated architecture | [Shopsistem](https://github.com/linoabraham/Shopsistem) | ![Updated](https://img.shields.io/badge/Updated-blue) |
+| **3 days ago** | 🎯 Created new repo | [SoftwareShullsVIP](https://github.com/linoabraham/SoftwareShullsVIP) | ![New](https://img.shields.io/badge/New-orange) |
+| **1 week ago** | 🌟 Starred repository | [awesome-java](https://github.com/akullpp/awesome-java) | ![Starred](https://img.shields.io/badge/Starred-yellow) |
+| **1 week ago** | 📝 Updated README | [cook_ease](https://github.com/linoabraham/cook_ease) | ![Documentation](https://img.shields.io/badge/Docs-purple) |
+
+</div>
+
+### 📈 **Activity Metrics**
+
+<div align="center">
+  
+[![Commits](https://img.shields.io/badge/Total%20Commits-500+-00D4FF?style=for-the-badge&logo=git&logoColor=white)](https://github.com/linoabraham)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-20+-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linoabraham)
+[![Languages](https://img.shields.io/badge/Languages-8+-00D4FF?style=for-the-badge&logo=code&logoColor=white)](https://github.com/linoabraham)
+
+</div>
+
 <!--START_SECTION:activity-->
 ```
 🔥 Pushed to linoabraham/sistemaagua
@@ -242,7 +302,28 @@ Other           15 mins         ░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Spotify](https://novatorem-linoabraham.vercel.app/api/spotify)](https://open.spotify.com/user/31k6w3kx7d5oa4bu5x6qt7p6lqea)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k6w3kx7d5oa4bu5x6qt7p6lqea&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d4ff&bar_color_cover=true)](https://open.spotify.com/user/31k6w3kx7d5oa4bu5x6qt7p6lqea)
+
+</div>
+
+### 🎶 **Music & Coding Vibes**
+
+<div align="center">
+
+| 🎧 **Coding Playlist** | 🎵 **Genre** | ⏱️ **Duration** |
+|:---:|:---:|:---:|
+| **Lo-Fi Hip Hop** | Chill/Focus | 2+ hours |
+| **Electronic/Ambient** | Concentration | 3+ hours |
+| **Synthwave/Retrowave** | Motivation | 1+ hours |
+| **Jazz/Neo-Soul** | Creative Flow | 2+ hours |
+
+</div>
+
+<div align="center">
+  
+[![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31k6w3kx7d5oa4bu5x6qt7p6lqea)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
 
 </div>
 
